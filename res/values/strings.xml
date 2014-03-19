@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculate BMI</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_message">Enter Your Name (Optional)</string>
+    <string name="button_send">Calculate</string>
+    <string name="title_activity_display_message">Your BMI Result</string>
+    <string name="edit_weight">Enter Weight (in kgs)</string>
+    <string name="edit_height">Enter Height (in cms)</string>
+    <string name="title_activity_aboutbmi">About Body Mass Index</string>
+    <string name="about_bmi">What is BMI?</string>
+    <string name="name_label_content">Name</string>
+    
+
+</resources>
